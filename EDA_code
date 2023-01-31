@@ -1,0 +1,11 @@
+#The code below aims to create an exploratory data analysis report (see EDA_Report.pdf) of the Conditional Release Grant Rate published by the Parole of Board of Canada.
+
+#import relevant libraries
+import numpy as np
+import pandas as pd
+from pandas_profiling import ProfileReport
+
+#create report
+data = pd.read_csv("combined_csv.csv")
+profile = ProfileReport(data, title="Pandas Profiling Report")
+profile.to_file("your_report.html")
