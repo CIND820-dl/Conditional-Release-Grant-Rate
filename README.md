@@ -7,6 +7,13 @@ The Parole Board of Canada (PBC) is part of the criminal justice system in Canad
 
 As part of the Government of Canada’s open data initiative, the PRC publishes annually on the number of conditional releases by its final approved release decisions (i.e., granted, not granted etc.) (Parole Board of Canada, 2018). The dataset captures the following: year, month, jurisdiction, decision purpose, decision type, sentence type, review type, race, gender and offence type.
 
+The following project is based on the “Conditional Release Grant Rate” data provided by the Parole Board of Canada (PBC).
+The proposed project will be focusing on the theme of classification. The classification is method is suitable for this project because it seeks to understand the target variable (grant rate qualifier) and how the remaining variables can be used to predict the target variable. As offenders continue to move through the criminal justice system, there is value in understanding and predicting if an offender’s conditional release can be predicted. This project has two primary aims:
+1.	Based on Singh, Jain and Kumar (2017)’s study, how do classifier algorithms such as decisions trees, neural networks and random forest compare when used to predict the grant rate qualifier? How do the results compare to those obtained in the Singh, Jain and Kumar study?
+2.	How do each of three classifiers compare against one another in terms of efficiency, performance, and accuracy?
+
+
+
 References
 
 Parole Board of Canada. (2018, February 18). Overview and Glossary of Terms and Concepts Published by the Parole Board of Canada. Canada.ca. Retrieved January 22, 2023,      from https://www.canada.ca/en/parole-board/corporate/publications-and-forms/types-of-release-fact-sheet.html 
