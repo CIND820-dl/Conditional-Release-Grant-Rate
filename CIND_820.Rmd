@@ -1,6 +1,6 @@
 ---
 title: "CIND820"
-author: "Denise Lo"
+author: "LoD"
 date: "2023-03-13"
 output:
   html_document: default
@@ -39,7 +39,7 @@ library(rpart.plot)
 
 #### 3. Load file.
 ```{r}
-data <- read.csv("C:/Users/loded/Desktop/Data Analytics, Big Data, and Predictive Analytics/CIND820/Data/data_optimized_RFE.csv")
+data <- read.csv("C:/Users/-----/Desktop/Data Analytics, Big Data, and Predictive Analytics/CIND820/Data/data_optimized_RFE.csv")
 ```
 
 #### 4. Split data into its training/testing sets (70 - 30 split). Set seed.
