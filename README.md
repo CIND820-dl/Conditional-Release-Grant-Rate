@@ -12,6 +12,7 @@ The proposed project will be focusing on the theme of classification. The classi
 1.	Based on Singh, Jain and Kumar (2017)’s study, how do classifier algorithms such as decisions trees, neural networks and random forest compare when used to predict the grant rate qualifier? How do the results compare to those obtained in the Singh, Jain and Kumar study?
 2.	How do each of three classifiers compare against one another in terms of efficiency, performance, and accuracy?
 
+![image](https://user-images.githubusercontent.com/123784071/224855503-fc4c71e3-2076-4406-8994-0d47b7f66548.png)
 
 
 References
