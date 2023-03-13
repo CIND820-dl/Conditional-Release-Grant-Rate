@@ -15,7 +15,7 @@ output:
   word_document: default
 ---
 <center> <h1> Initial Code (10%) </h1> </center>
-<center>  <h3> [Denise Lo] </h2> </center>
+<center>  <h3> [LoD] </h2> </center>
 <center> <h3> [CIND820] </h2> </center>
 ---
 
