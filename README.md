@@ -32,7 +32,8 @@ Methodology
 4.4	Final Variable Preparation
 4.5	Modelling
 
-Files in this directory
-a) Exploratory Data Analysis - Methodology step 1 and 2
-b) Dimensionality Reduction & Feature Selection - Methodology step 3
-c) Final Models - Methodology step 4
+Files in this directory 
+1.	Exploratory Data Analysis - Methodology step 1 and 2 
+2.	Dimensionality Reduction & Feature Selection - Methodology step 3 
+3.	Final Models - Methodology step 4
+
